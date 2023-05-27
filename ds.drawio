@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-05-27T16:05:17.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VX1W7txzh7tzbSlvmLrM" version="21.2.9" type="device">
+  <diagram name="Page-1" id="r02E67NnSP81Oc-enKY0">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fJz7q93cKGki-re5FPNt-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/660277-Python_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="131" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJz7q93cKGki-re5FPNt-1" target="fJz7q93cKGki-re5FPNt-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-4" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="238" y="209" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.800018310546875;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJz7q93cKGki-re5FPNt-2" target="fJz7q93cKGki-re5FPNt-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="195" as="sourcePoint" />
+            <mxPoint x="340" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" vertex="1" parent="1">
+          <mxGeometry x="450" y="171.75" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png" vertex="1" parent="1">
+          <mxGeometry x="340" y="166" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fJz7q93cKGki-re5FPNt-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fJz7q93cKGki-re5FPNt-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
